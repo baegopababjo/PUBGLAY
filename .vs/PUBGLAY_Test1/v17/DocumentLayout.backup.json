@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uB2E4\uD6C8\\Desktop\\PUBGLAY_Test1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63A74CF1-D836-40F5-A608-41689006C80D}|PUBGLAY_Test1.vcxproj|C:\\Users\\\uB2E4\uD6C8\\Desktop\\PUBGLAY_Test1\\PUBYLAY.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{63A74CF1-D836-40F5-A608-41689006C80D}|PUBGLAY_Test1.vcxproj|solutionrelative:PUBYLAY.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PUBYLAY.cpp",
+              "DocumentMoniker": "C:\\Users\\\uB2E4\uD6C8\\Desktop\\PUBGLAY_Test1\\PUBYLAY.cpp",
+              "RelativeDocumentMoniker": "PUBYLAY.cpp",
+              "ToolTip": "C:\\Users\\\uB2E4\uD6C8\\Desktop\\PUBGLAY_Test1\\PUBYLAY.cpp",
+              "RelativeToolTip": "PUBYLAY.cpp",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwFgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-25T11:51:33.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

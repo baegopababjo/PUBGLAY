@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PUBGLAY_Test1", "PUBGLAY_Test1.vcxproj", "{63A74CF1-D836-40F5-A608-41689006C80D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63A74CF1-D836-40F5-A608-41689006C80D}.Debug|x64.ActiveCfg = Debug|x64
+		{63A74CF1-D836-40F5-A608-41689006C80D}.Debug|x64.Build.0 = Debug|x64
+		{63A74CF1-D836-40F5-A608-41689006C80D}.Debug|x86.ActiveCfg = Debug|Win32
+		{63A74CF1-D836-40F5-A608-41689006C80D}.Debug|x86.Build.0 = Debug|Win32
+		{63A74CF1-D836-40F5-A608-41689006C80D}.Release|x64.ActiveCfg = Release|x64
+		{63A74CF1-D836-40F5-A608-41689006C80D}.Release|x64.Build.0 = Release|x64
+		{63A74CF1-D836-40F5-A608-41689006C80D}.Release|x86.ActiveCfg = Release|Win32
+		{63A74CF1-D836-40F5-A608-41689006C80D}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66697649-247C-4FEC-AA2C-BA94B907FF56}
+	EndGlobalSection
+EndGlobal
